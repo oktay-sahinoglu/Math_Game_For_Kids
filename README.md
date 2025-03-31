@@ -2,7 +2,7 @@
 Math Game for Primary School Kids. Random generated addition, subtraction, multiplication and division questions.
 
 ## Installation
-PyGame is required. To install pygame.
+`pygame` is required. To install `pygame`.
 
 ```
 > pip install pygame
